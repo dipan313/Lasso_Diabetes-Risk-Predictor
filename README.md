@@ -474,8 +474,8 @@ project3_lasso_diabetes/
 
 **Dipan Mazumder**
 
-Built as part of a 5-project ML engineering portfolio demonstrating real-world application of Linear, Ridge, Lasso, ElasticNet, and Naive Bayes models across Sports Analytics, Real Estate, Healthcare, Finance, and NLP domains.
+
 
 ---
 
-*ML Engineering Portfolio — Project 3 of 5 · Lasso Regression · BRFSS Diabetes*
+*ML Engineering Portfolio*
